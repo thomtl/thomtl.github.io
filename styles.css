@@ -1,0 +1,40 @@
+html
+{
+	height: 100%;
+	color: white;
+}
+body
+{
+	height: 90%;
+	margin: 0;
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+	font-family:"Courier New",Ariel,Helvetica,san-serif;
+	background: #2eaaf2;
+	background: linear-gradient(0deg, rgb(104, 242, 205), rgb(121, 39, 234));
+}
+h1,h2
+{
+	text-align: center;
+	font-size: 300%;
+}
+a:link
+{
+	text-decoration:none;
+}
+a:visited
+{
+	text-decoration:none;
+}
+p
+{
+	text-align: center;
+}
+ul
+{
+	text-align: center;
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
